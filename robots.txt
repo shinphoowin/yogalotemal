@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shinphoowin.github.io/yogalotemal/sitemap.xml
+Sitemap: https://shinphoowin.github.io/yogalotemal/sitemap_index.xml
